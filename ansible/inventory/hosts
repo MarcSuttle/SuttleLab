@@ -1,0 +1,5 @@
+[proxmox]
+ansible_host=10.18.18.110 ansible_user=root
+
+[openbsd]
+matthew ansible_host=10.18.18.120 ansible_user=mws
